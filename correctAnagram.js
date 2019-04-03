@@ -16,3 +16,7 @@ return true;
 
 console.log(anagram('texttwisttime', 'timetwisttext'));
 console.log(anagram('ey edip adanada pide ye', 'ey edip adanada pide ye'));
+console.log(anagram('anagram', 'gramanaz'));
+console.log(anagram('anagram', 'gramana'));
+console.log(anagram('anagram', 'gramina'));
+console.log(anagram('', ''));
