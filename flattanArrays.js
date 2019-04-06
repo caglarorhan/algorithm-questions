@@ -13,5 +13,5 @@ function flattenArrays(arr){
 }
 
 console.log(flattenArrays([1,2,[6,7],9,[12,[100,200,[300,400]]]]));
-// ES6
+// ES8
 console.log([1,2,[6,7],9,[12,[100,200,[300,400]]]].flat(3));
