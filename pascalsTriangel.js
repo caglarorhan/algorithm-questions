@@ -25,7 +25,7 @@ let generate = function(numRows) {
     return res;
 };
 
-console.log(generate(18));
+console.log(generate(34));
 /*
 [
      [1],
